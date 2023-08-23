@@ -1,7 +1,8 @@
 # AWS-Devops-Questions
 
 
-What is AWS?
+(1) What is AWS?
+
 AWS stands for Amazon Web Services. It is a cloud computing platform that provides a wide range of services such as computing, storage, and database management.
 
 What are the advantages of AWS?
