@@ -57,6 +57,22 @@
  
  An EC2 instance type is a combination of CPU, memory, storage, and networking resources used for running EC2 instances.
 
+ T2-nano
+
+T2-micro
+
+T2-small
+
+T2-medium
+
+T2-large
+
+T2-xlarge
+
+T2-2xlarge
+
+same with T3.....
+
 (15)What is an S3 bucket?
  
  An S3 bucket is a container for storing and retrieving files in S3.
